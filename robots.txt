@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ymy8mc.hartawin-pro.online/sitemap.xml
